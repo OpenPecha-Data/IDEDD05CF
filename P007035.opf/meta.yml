@@ -1,15 +1,16 @@
-id: opecha:P007035
+id: P007035
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS20495
   title: ནག་པོ་སྐལ་བཟང་གི་གསུང་རྩོམ་ཕྱོགས་བསྒྲིགས།
-  volume:
+  author: ''
+  volumes:
     41461851143d4e9f9c22efd351c36df0:
       image_group_id: I8LS20497
       title: Volume 1 of mchog sprul nag po skal bzang gi gsung rtsom phyogs bsgrigs/
       volume_number: 1
       total_pages: 314
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ནག་པོ་སྐལ་བཟང་གི་གསུང་རྩོམ་ཕྱོགས་བསྒྲིགས།
   author: ''
